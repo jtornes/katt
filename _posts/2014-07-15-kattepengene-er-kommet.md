@@ -4,4 +4,7 @@ title: Kattepengene er kommet
 ---
 
 ![Pengekatt]({{ site.github.url }}/images/pengekatt.gif)
-{: .image-right}
+
+<figure>
+	<img src="{{ site.github.url }}/images/pengekatt.gif" alt="Pengekatt"></a>
+</figure>
