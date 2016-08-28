@@ -1,5 +1,5 @@
 title:            Katteetaten
-description:      Describe your website here.
+description:      I Katteetaten jobber under 6500 ansatte mot samme mål; å sikre feliniseringen av velferdssamfunnet.
 disqus_shortname: 
 # Your site's domain goes here (eg: https://mmistakes.github.io, http://yourdomain.com, etc)
 # When testing locally leave blank or use http://localhost:4000
@@ -9,7 +9,7 @@ url:
 owner:
   name:           Suction Schwartz
   avatar:         avatar.jpg
-  bio:            "Your bio goes here. It shouldn't be super long but a good sentence or two should suffice."
+  bio:            "I Katteetaten jobber under 6500 ansatte mot samme mål; å sikre feliniseringen av velferdssamfunnet."
   email:          ss@katteetaten.no
   # Social networking links used in footer. Update and remove as you like.
   twitter:        
