@@ -25,14 +25,6 @@
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
         {{ content }}
-        <ul>
-  {% for post in site.github.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-          <p>–</p>
-  {% endfor %}
-</ul>
       </section>
     </div>
 
