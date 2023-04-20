@@ -35,7 +35,6 @@ git fetch -t origin
   echo "Whoops, there's already a '${tag}' tag."
   exit 1
 }
-
 # Tag it and bag it.
 
 gem push jekyll-theme-slate-*.gem && git tag "$tag" &&
